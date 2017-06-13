@@ -1,0 +1,9 @@
+c:\users\josericardo\documents\visual studio 2015\Projects\FIFO\FIFO\bin\Debug\FIFO.exe.config
+c:\users\josericardo\documents\visual studio 2015\Projects\FIFO\FIFO\bin\Debug\FIFO.exe
+c:\users\josericardo\documents\visual studio 2015\Projects\FIFO\FIFO\bin\Debug\FIFO.pdb
+c:\users\josericardo\documents\visual studio 2015\Projects\FIFO\FIFO\obj\Debug\FIFO.csprojResolveAssemblyReference.cache
+c:\users\josericardo\documents\visual studio 2015\Projects\FIFO\FIFO\obj\Debug\FIFO.Form1.resources
+c:\users\josericardo\documents\visual studio 2015\Projects\FIFO\FIFO\obj\Debug\FIFO.Properties.Resources.resources
+c:\users\josericardo\documents\visual studio 2015\Projects\FIFO\FIFO\obj\Debug\FIFO.csproj.GenerateResource.Cache
+c:\users\josericardo\documents\visual studio 2015\Projects\FIFO\FIFO\obj\Debug\FIFO.exe
+c:\users\josericardo\documents\visual studio 2015\Projects\FIFO\FIFO\obj\Debug\FIFO.pdb
